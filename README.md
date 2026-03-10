@@ -1,1 +1,1 @@
-![Header](gif)
+![Header](jpg)

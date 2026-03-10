@@ -1,1 +1,1 @@
-![Header](jpg.jpg)
+![Header](jpeg)
